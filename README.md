@@ -1,2 +1,6 @@
-# uni-databases
-Materials from Sofia University's Databases course. (2020)
+# Материали по Бази от данни
+
+1. Упражнение 1 - [Прости Заявки](Exercise-1/README.md)
+2. Упражнение 2 - [Заявки върху две и повече релации](Exercise-2/README.md)
+
+*Бази от данни, върху които се провеждат упражненията - [тук](Databases/README.md)*
